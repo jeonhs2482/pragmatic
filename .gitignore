@@ -359,4 +359,5 @@ zsdoc/data
 
 my_settings.py
 
+media/
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,vim,visualstudiocode,macos,linux,zsh
